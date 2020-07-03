@@ -1,4 +1,4 @@
-# pt
+# GoodSpeaker
 
 Aplicação desnvolvida em flutter no âmbito da cadeira de IPC. Terapia da fala
 

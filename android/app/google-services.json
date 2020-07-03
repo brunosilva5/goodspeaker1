@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "800241252108",
+    "firebase_url": "https://goodspeaker-3add5.firebaseio.com",
+    "project_id": "goodspeaker-3add5",
+    "storage_bucket": "goodspeaker-3add5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800241252108:android:aef458f8fdb7fcb930bb29",
+        "android_client_info": {
+          "package_name": "bruno.pt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800241252108-hrmjf1uhphcnbe60o5hkhcuh1iq3f850.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bruno.pt",
+            "certificate_hash": "e76bcc14ec825c54d702471f9c2e0d36bfadc408"
+          }
+        },
+        {
+          "client_id": "800241252108-69en4mba5tets69pu157m9orh4cm1226.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmlMB9UjUQorzrMfdhpeR3pbg_hCHUBWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800241252108-69en4mba5tets69pu157m9orh4cm1226.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

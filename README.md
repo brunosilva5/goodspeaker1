@@ -1,17 +1,16 @@
-# GoodSpeaker
+![GoodSpeaker](https://github.com/brunosilva5/goodspeaker1/blob/master/images/logo.png)
 
-Aplicação desnvolvida em flutter no âmbito da cadeira de IPC. Terapia da fala
+***
 
-## Getting Started
+No âmbito da Unidade Curricular de Interação Pessoa Computador, do terceiro ano da Licenciatura em Engenharia Informática na Universidade de Trás-os-Montes e Alto Douro (UTAD), foi proposto pelos docentes o desenvolvimento de uma solução digital acessível, focada na ótica do utilizador.
+A ideia apresentada, consiste na criação de uma aplicação (app) de apoio ao ensino e à prática clínica da Terapia da Fala. Batizada de “GoodSpeaker”, a app tem como principal objetivo ajudar os utilizadores a pronunciar, de forma correta, determinados fonemas.
 
-This project is a starting point for a Flutter application.
+***
 
-A few resources to get you started if this is your first Flutter project:
+A aplicação foi desenvolvida com a framework [Flutter](https://flutter.dev/). 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Foi usada uma REST API, desenvolvida em [Python](https://www.python.org/), através da framework [Flask](https://flask.palletsprojects.com/), para gerar palavras aleatóriamente, de acordo com os fonemas, anteriormente selecionados pelo utilizador.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# goodspeaker1
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
